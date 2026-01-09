@@ -1,2 +1,1 @@
-# discount-impact-global-superstore
-Analysis of discount levels and profitability using Google Sheets
+• Analyzed discount-level impact on profitability using Google Sheets and pivot tables, identifying high-discount loss drivers and recommending a 20% discount cap to improve margins.
